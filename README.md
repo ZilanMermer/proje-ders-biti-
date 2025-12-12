@@ -9,5 +9,5 @@ Bota komut girerek,bize iklim değişikliği hakkında bilgi vericek.En sonunda 
 
 ###  Model'de hangi uygulamalar kullanıldı?:
 
-Modelimi discord'u ve visual studio code'u kullanarak oluşturacağım.
+Modelimi discord'u ve visual studio code'u kullanarak oluşturdum.
 
