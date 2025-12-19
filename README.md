@@ -9,5 +9,12 @@ Bota komut girerek,bize iklim değişikliği hakkında bilgi vericek.En sonunda 
 
 ###  Model'de hangi uygulamalar kullanıldı?:
 
-Modelimi discord'u ve visual studio code'u kullanarak oluşturdum.Visual Studio Code (VS Code), Microsoft tarafından geliştirilen, ücretsiz, açık kaynaklı ve hafif bir kod editörüdür.
+Modelimi discord'u ve visual studio code'u kullanarak oluşturdum.Visual Studio Code  bir kod editörüdür.
 
+
+### Botta Kullanılan Komutlar Örneği:
+
+- !iklim_tavsiyesi = iklim  hakkında tavsiye verir.
+- !karbon_ayak_izi = Karbon ayak izi hakkında bilgi verir.
+- !sera_etkisi = Sera etkisi hakkında bilgi verir.
+- !iklim_mucadele = Kullanıcıya iklim değişikliğiyle mücadelede neler yapabileceğini sıralar
