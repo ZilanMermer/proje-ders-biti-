@@ -14,9 +14,9 @@ Modelimi discord'u ve visual studio code'u kullanarak oluşturdum.Visual Studio 
 
 ### Botta Kullanılan Komutlar Örneği:
 
-- $iklim_tavsiyesi = iklim  hakkında tavsiye verir.
-- $karbon_ayak_izi = Karbon ayak izi hakkında bilgi verir.
-- $sera_etkisi = Sera etkisi hakkında bilgi verir.
+- $iklim_tavsiyesi = iklim  hakkında tavsiye verir.Görsel ekler.Link verir.
+- $karbon_ayak_izi = Karbon ayak izi hakkında bilgi verir.Görsel ekler.Link verir.
+- $sera_etkisi = Sera etkisi hakkında bilgi verir.Görsel ekler.Link verir.
 - $iklim_mucadele = Kullanıcıya iklim değişikliğiyle mücadelede neler yapabileceğini sıralar
 
 
