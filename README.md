@@ -23,3 +23,8 @@ Modelimi discord'u ve visual studio code'u kullanarak oluşturdum.Visual Studio 
 ### Görseller Nasıl Kullanıldı?
 
 - Her komutta, verilen bilginin daha iyi anlaşılması için bir görsel eklenmiştir.
+
+![WhatsApp Image 2025-12-26 at 21 32 42](https://github.com/user-attachments/assets/e04697a8-1fae-4666-8590-ac41508b2cc1)
+![WhatsApp Image 2025-12-26 at 21 32 54](https://github.com/user-attachments/assets/d92bae15-8b9e-4b72-8fb3-5585a19d75be)
+![WhatsApp Image 2025-12-26 at 21 33 02](https://github.com/user-attachments/assets/60524f3d-9bec-4280-914a-d91604622f5a)
+![WhatsApp Image 2025-12-26 at 21 43 53](https://github.com/user-attachments/assets/8b11a7cf-e0c1-482f-b763-052f529710c4)
