@@ -28,3 +28,4 @@ Modelimi discord'u ve visual studio code'u kullanarak oluşturdum.Visual Studio 
 ![WhatsApp Image 2025-12-26 at 21 32 54](https://github.com/user-attachments/assets/d92bae15-8b9e-4b72-8fb3-5585a19d75be)
 ![WhatsApp Image 2025-12-26 at 21 33 02](https://github.com/user-attachments/assets/60524f3d-9bec-4280-914a-d91604622f5a)
 ![WhatsApp Image 2025-12-26 at 21 43 53](https://github.com/user-attachments/assets/8b11a7cf-e0c1-482f-b763-052f529710c4)
+![WhatsApp Image 2025-12-27 at 14 56 29](https://github.com/user-attachments/assets/8a46f7ce-90d7-4844-8dfe-f0b79be22ed3)
