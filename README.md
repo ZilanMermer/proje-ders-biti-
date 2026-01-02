@@ -5,7 +5,7 @@ Bu discord botumuz iklim değişikliği hakkında bize bilgi vericek ve  nasıl 
 
 ## Nasıl Çalışır?
 
-Bota komut girerek,bize iklim değişikliği hakkında bilgi vericek.En sonunda da önlemek için neler yapmamız gerektiğini söyliyecek.Bze ankette veriyor sorularla beraber bizde seçeneklerimizi seçiyoruz
+Bota komut girerek,bize iklim değişikliği hakkında bilgi vericek.En sonunda da önlemek için neler yapmamız gerektiğini söyliyecek.Bize ankette veriyor sorularla beraber bizde seçeneklerimizi seçiyoruz
 
 ###  Model'de hangi uygulamalar kullanıldı?:
 
