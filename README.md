@@ -20,7 +20,7 @@ Modelimi discord'u ve visual studio code'u kullanarak oluşturdum.Visual Studio 
 - $iklim_mucadele = Kullanıcıya iklim değişikliğiyle mücadelede neler yapabileceğini sıralar
 
 
-### Görseller Nasıl Kullanıldı?
+### Görseller;
 
 - Her komutta, verilen bilginin daha iyi anlaşılması için bir görsel eklenmiştir.
 
